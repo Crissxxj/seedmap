@@ -1,0 +1,9 @@
+Se pueden reemplazar los iconos pixel-art de la app:
+copia aquí tus PNG (los que quieras) nombrados con la clave del icono.
+Claves válidas (mira array KEYLIST en src/icons.js):
+  village_plains, village_desert, village_savanna, village_taiga, village_snowy, village_zombie,
+  desert_pyramid, jungle_temple, witch_hut, igloo, igloo_basement, monument, mansion, outpost,
+  ruined_portal, ruined_portal_n, ruined_portal_giant, ancient_city, trail_ruins, trial_chamber,
+  shipwreck, ocean_ruin_warm, ocean_ruin_cold, treasure, fortress,
+  bastion_housing, bastion_hoglin, bastion_treasure, bastion_bridge, end_city
+Ejemplo: village_plains.png reemplaza el icono de la aldea de llanura (mapa + listas + chips).
